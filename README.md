@@ -20,9 +20,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaduart&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=contribs,prs"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="left" alt="R studio" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/dd8ddc34fe29a71c81183dbe3436cfabbb540e44/b7152/assets/img/rstudio-ball.svg"> 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="SQL" height="30" width="40" src="https://www.logolynx.com/images/logolynx/c0/c0f84d9509d6690a70ce4c596f740c62.png">
+  <img align="center" alt="R studio" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/dd8ddc34fe29a71c81183dbe3436cfabbb540e44/b7152/assets/img/rstudio-ball.svg"> 
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" >
 </div>
 
   ##
